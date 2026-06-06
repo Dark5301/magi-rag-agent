@@ -64,7 +64,7 @@ rag_text.txt ──► load_documents() ──► chunk_document() ──► emb
 ### 1. Clone and install dependencies
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Dark5301/magi-rag-agent
 cd magi-rag-agent
 ```
 
